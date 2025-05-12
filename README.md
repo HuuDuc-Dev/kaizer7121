@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=4000&random=false&width=435&lines=I'm+Dao+Huu+Duc+(Full-Stack+Developer).)](https://git.io/typing-svg)
-### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=kaizer7121&icon=2&color=1)](https://visitcount.itsvg.in)
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=HuuDuc-Dev&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <img align='right' src="./images/coding.gif" width="25%">
 <br>
@@ -73,15 +73,15 @@ Driven Full-Stack Developer passionate about crafting user-friendly interfaces w
 
 # 📊 GitHub Stats:
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaizer7121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HuuDuc-Dev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer7121&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuuDuc-Dev&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizer7121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuDuc-Dev&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaizer7121&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HuuDuc-Dev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
